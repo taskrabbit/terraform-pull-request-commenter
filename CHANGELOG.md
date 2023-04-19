@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.6.0
+
+- Forked from <https://github.com/robburger/terraform-pr-commenter> project.
+- Use [hashicorp/terraform:1.4.5](https://hub.docker.com/r/hashicorp/terraform) container base image.
+
 ## v1.5.0
 
 - Bump to Terraform v1.0.6 internally (only affects `fmt`)
