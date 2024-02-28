@@ -1,4 +1,4 @@
-FROM hashicorp/terraform:1.4.5
+FROM hashicorp/terraform:1.7.4
 
 LABEL \
     repository="https://github.com/sheeeng/terraform-pull-request-commenter" \
